@@ -9,6 +9,6 @@ A Collection of my work
 
 * ### DA Projects
 1. [Sales Report](https://github.com/Grace-10/Data-Science-Projects/blob/main/Sales%20Report.ipynb)
-   A challenge from datacamp that aims at showing some data analysis and visualization skills in python
-2. [Chocolate Rating Project]()
+   A data analysis and visualization challenge from datacamp that aims at improving the sales of a 
+2. [Chocolate Rating Project](https://github.com/Grace-10/Data-Science-Projects/blob/main/CHOCOLATE%20PROJECT.ipynb)
 
