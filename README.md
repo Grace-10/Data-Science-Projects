@@ -10,5 +10,5 @@ A Collection of my work
 * ### DA Projects
 1. [Sales Report]()
    A challenge from datacamp that aims at showing some data analysis and visualization skills in python
-3. [Chocolate Rating Project]()
+2. [Chocolate Rating Project]()
 
