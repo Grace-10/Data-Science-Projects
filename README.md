@@ -8,7 +8,7 @@ A Collection of my work
    This is a challenge from datacamp that aims at predictiing if a hotel booking will be cancelled or not, factors that can affect the cancellation and how the hotel can improve to reduce cancellations.
 
 * ### DA Projects
-1. [Sales Report]()
+1. [Sales Report](https://github.com/Grace-10/Data-Science-Projects/blob/main/Sales%20Report.ipynb)
    A challenge from datacamp that aims at showing some data analysis and visualization skills in python
 2. [Chocolate Rating Project]()
 
