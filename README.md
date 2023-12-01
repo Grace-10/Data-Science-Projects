@@ -15,5 +15,7 @@ A Collection of my work
 2. [Chocolate Rating Project](https://github.com/Grace-10/Data-Science-Projects/blob/main/CHOCOLATE%20PROJECT.ipynb)
    This is a challenge from datacamp that aims at giving insights into the ratings of various chocolate brands across certain countries.
 3. [Car Carbon(iv)oxide Emmission Projects](https://github.com/Grace-10/Data-Science-Projects/blob/main/Cars%20CO2%20Emission%20Project.ipynb)
-   A summary of the CO2 emmission rate of some vehicles based on their fuel type and other factors 
+   A summary of the CO2 emmission rate of some vehicles based on their fuel type and other factors
+* ### Dashboards
+  1. [Pizza Sales Dashboard](
 
