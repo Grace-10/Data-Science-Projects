@@ -17,7 +17,7 @@ A Collection of my work
 3. [Car Carbon(iv)oxide Emmission Projects](https://github.com/Grace-10/Data-Science-Projects/blob/main/Cars%20CO2%20Emission%20Project.ipynb)
    A summary of the CO2 emmission rate of some vehicles based on their fuel type and other factors
 * ### Dashboards
-  1. [Pizza Sales Dashboard](https://github.com/Grace-10/Data-Science-Projects/blob/main/Pizza%20Project.pbix)
+1. [Pizza Sales Dashboard](https://github.com/Grace-10/Data-Science-Projects/blob/main/Pizza%20Project.pbix)
      This is a Dashboard Challenge from Mavin Analytics which features the sales of pizza over a year of a pizza company. The challenge was done to improve visualization skills.
      The dataset was gotten from Mavin Analytics. 
 
